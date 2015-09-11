@@ -3,8 +3,7 @@
 npm install expect-dom.js
 ```
 
-# Usage
-
+# Setup for node.js
 
 ```
 var expect = require('expect.js');
@@ -14,9 +13,18 @@ require('expect-dom.js')(expect);
 
 ```
 
+
+# Setup for the browser
+Just use browserify...
+
+ 
+
 # Api
 
 * expect($(somelement)).to.be.visible();
 
 
+
+# Motivation
+This is based on jquery (no conflict) DOM engine
 
