@@ -1,6 +1,6 @@
 {
   "name": "expect-dom.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DOM assertion utilies for expect.js",
   "main": "index.js",
   "scripts": {
