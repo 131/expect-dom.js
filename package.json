@@ -17,5 +17,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/131/expect-dom.js/issues"
+  },
+  "dependencies": {
+    "udom": "^1.1.0"
   }
 }
